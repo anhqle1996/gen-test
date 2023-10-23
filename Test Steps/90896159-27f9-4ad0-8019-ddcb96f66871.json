@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page default asp",
+        "step 2: At Page default asp click on hyperlink sql tutorial --> navigate to Page sql default asp",
+        "step 3: Add visual checkpoint at Page sql default asp"
+    ]
+}

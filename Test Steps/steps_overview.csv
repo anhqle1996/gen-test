@@ -1,0 +1,13 @@
+Flow ID,Description,Test Steps,Flow Priority
+2,Verify successful navigation to HTML Default ASP page from HTML Iframe ASP page,"step 1: Navigate to Page html html iframe asp
+step 2: At Page html html iframe asp click on hyperlink default asp --> navigate to Page html default asp
+step 3: Add visual checkpoint at Page html default asp",High
+1,Verify successful navigation to SQL Tutorial page from Default ASP page,"step 1: Navigate to Page default asp
+step 2: At Page default asp click on hyperlink sql tutorial --> navigate to Page sql default asp
+step 3: Add visual checkpoint at Page sql default asp",High
+5,Verify successful navigation to How to Try JS Slideshow Iframe HTML page,"step 1: Navigate to Page howto tryhow js slideshow ifr htm
+step 2: Add visual checkpoint at Page howto tryhow js slideshow ifr htm",Medium
+3,Verify successful navigation to JS Default ASP page,"step 1: Navigate to Page js default asp
+step 2: Add visual checkpoint at Page js default asp",Medium
+4,Verify successful navigation to CSS Default ASP page,"step 1: Navigate to Page css default asp
+step 2: Add visual checkpoint at Page css default asp",Medium
